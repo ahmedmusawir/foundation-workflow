@@ -5,7 +5,7 @@ This is the workflow for Foundation 5 and Compass SCSS. Just clone it and GO !!
 Do not remove "compass" or try to fiddle with it by symlinking gems etc. (as I did, heh)
 Simply uninstall the old "zurb-foundation-4.3.2" gem
 
-##gem uninstall zurb-foundation
+#gem uninstall zurb-foundation
 
 Install the "foundation" CLI gem
 ##gem install foundation
