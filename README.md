@@ -15,10 +15,12 @@ Install bower (if you don't have it yet - remember it depends on nodejs & npm)
 
 Create a new project with the CLI command. This will run bower.
 Bower won't run as root, in case it complains that you're using sudo/root the solution is below
-###foundation new <myproject path>
+
+### foundation new ---> myproject path 
 
 (optional) if bower complains do this:
-###cd <myproject path>
+
+### cd ---> myproject path 
 ###bower install foundation --allow-root
 
 Now you should be inside the project's directory and
